@@ -1,0 +1,107 @@
+2022-02-01 19:19:28,395 [main] INFO Base.BaseClass - Properties are set
+2022-02-01 19:20:01,004 [main] INFO Base.BaseClass - Browser is open
+2022-02-01 19:20:33,407 [main] INFO Base.BaseClass - url inserted and connecting
+2022-02-01 19:20:33,462 [main] INFO Base.BaseClass - Connection timeout
+2022-02-01 19:24:32,804 [main] INFO Base.BaseClass - Properties are set
+2022-02-01 19:25:01,882 [main] INFO Base.BaseClass - Browser is open
+2022-02-01 19:25:15,832 [main] INFO Base.BaseClass - url inserted and connecting
+2022-02-01 19:25:16,002 [main] INFO Base.BaseClass - Connection timeout
+2022-02-01 19:37:57,612 [main] INFO Base.BaseClass - Properties are set
+2022-02-01 19:38:36,971 [main] INFO Base.BaseClass - Browser is open
+2022-02-01 19:39:22,897 [main] INFO Base.BaseClass - url inserted and connecting
+2022-02-01 19:39:23,017 [main] INFO Base.BaseClass - Connection timeout
+2022-02-01 19:43:02,187 [main] INFO Base.BaseClass - Properties are set
+2022-02-01 19:43:15,073 [main] INFO Base.BaseClass - Browser is open
+2022-02-01 19:43:28,910 [main] INFO Base.BaseClass - url inserted and connecting
+2022-02-01 19:43:28,922 [main] INFO Base.BaseClass - Connection timeout
+2022-02-01 19:55:26,495 [main] INFO Base.BaseClass - Properties are set
+2022-02-01 19:55:51,957 [main] INFO Base.BaseClass - Browser is open
+2022-02-01 19:56:12,091 [main] INFO Base.BaseClass - url inserted and connecting
+2022-02-01 19:56:12,135 [main] INFO Base.BaseClass - Connection timeout
+2022-02-01 19:59:42,008 [main] INFO Base.BaseClass - Properties are set
+2022-02-01 19:59:55,883 [main] INFO Base.BaseClass - Browser is open
+2022-02-01 20:00:23,565 [main] INFO Base.BaseClass - url inserted and connecting
+2022-02-01 20:00:23,574 [main] INFO Base.BaseClass - Connection timeout
+2022-02-01 20:00:24,054 [main] INFO Base.BaseClass - Current url , title and logo is checked
+2022-02-01 20:00:24,449 [main] INFO Base.BaseClass - Create account btn is click
+2022-02-01 20:00:26,767 [main] INFO Base.BaseClass - signIn text is present
+2022-02-01 20:00:45,250 [main] INFO Base.BaseClass - credential is pass
+2022-02-01 20:00:51,883 [main] INFO Base.BaseClass - Select or drop down box is handle
+2022-02-01 20:00:52,983 [main] INFO Base.BaseClass - Browser is Closed
+2022-02-01 20:01:48,238 [main] INFO Base.BaseClass - Properties are set
+2022-02-01 20:01:59,160 [main] INFO Base.BaseClass - Browser is open
+2022-02-01 20:02:22,236 [main] INFO Base.BaseClass - url inserted and connecting
+2022-02-01 20:02:22,248 [main] INFO Base.BaseClass - Connection timeout
+2022-02-01 20:02:22,321 [main] INFO Base.BaseClass - Current url , title and logo is checked
+2022-02-01 20:02:22,420 [main] INFO Base.BaseClass - Create account btn is click
+2022-02-01 20:02:23,545 [main] INFO Base.BaseClass - signIn text is present
+2022-02-01 20:02:39,178 [main] INFO Base.BaseClass - credential is pass
+2022-02-01 20:02:46,022 [main] INFO Base.BaseClass - Select or drop down box is handle
+2022-02-01 20:02:50,928 [main] INFO Base.BaseClass - Browser is Closed
+2022-02-01 20:29:33,768 [main] INFO Base.BaseClass - Properties are set
+2022-02-01 20:30:13,891 [main] INFO Base.BaseClass - Browser is open
+2022-02-01 20:30:53,883 [main] INFO Base.BaseClass - url inserted and connecting
+2022-02-01 20:30:53,922 [main] INFO Base.BaseClass - Connection timeout
+2022-02-01 20:30:54,793 [main] INFO Base.BaseClass - Current url , title and logo is checked
+2022-02-01 20:30:55,315 [main] INFO Base.BaseClass - Create account btn is click
+2022-02-01 20:30:56,912 [main] INFO Base.BaseClass - signIn text is present
+2022-02-01 20:31:17,586 [main] INFO Base.BaseClass - credential is pass
+2022-02-01 20:31:24,735 [main] INFO Base.BaseClass - Select or drop down box is handle
+2022-02-01 20:31:30,406 [main] INFO Base.BaseClass - Browser is Closed
+2022-02-01 22:05:17,849 [main] INFO Base.BaseClass - Properties are set
+2022-02-01 22:06:16,625 [main] INFO Base.BaseClass - Browser is open
+2022-02-01 22:07:08,436 [main] INFO Base.BaseClass - url inserted and connecting
+2022-02-01 22:07:08,556 [main] INFO Base.BaseClass - Connection timeout
+2022-02-01 22:07:10,426 [main] INFO Base.BaseClass - Current url , title and logo is checked
+2022-02-01 22:07:12,130 [main] INFO Base.BaseClass - Create account btn is click
+2022-02-01 22:07:15,982 [main] INFO Base.BaseClass - signIn text is present
+2022-02-01 22:07:41,857 [main] INFO Base.BaseClass - credential is pass
+2022-02-01 22:07:49,675 [main] INFO Base.BaseClass - Select or drop down box is handle
+2022-02-01 22:08:01,175 [main] INFO Base.BaseClass - Browser is Closed
+2022-02-01 22:23:53,159 [main] INFO Base.BaseClass - Properties are set
+2022-02-01 22:24:27,111 [main] INFO Base.BaseClass - Browser is open
+2022-02-01 22:24:45,248 [main] INFO Base.BaseClass - url inserted and connecting
+2022-02-01 22:24:45,603 [main] INFO Base.BaseClass - Connection timeout
+2022-02-01 22:24:51,898 [main] INFO Base.BaseClass - Create account btn is click
+2022-02-01 22:24:54,773 [main] INFO Base.BaseClass - signIn text is present
+2022-02-01 22:25:17,635 [main] INFO Base.BaseClass - credential is pass
+2022-02-01 22:25:24,637 [main] INFO Base.BaseClass - Select or drop down box is handle
+2022-02-01 22:25:32,373 [main] INFO Base.BaseClass - Browser is Closed
+2022-02-01 22:30:35,211 [main] INFO Base.BaseClass - Properties are set
+2022-02-01 22:31:41,860 [main] INFO Base.BaseClass - Browser is open
+2022-02-01 22:32:16,405 [main] INFO Base.BaseClass - url inserted and connecting
+2022-02-01 22:32:16,472 [main] INFO Base.BaseClass - Connection timeout
+2022-02-01 22:32:17,047 [main] INFO Base.BaseClass - Current url , title and logo is checked
+2022-02-01 22:32:18,046 [main] INFO Base.BaseClass - Create account btn is click
+2022-02-01 22:32:19,678 [main] INFO Base.BaseClass - signIn text is present
+2022-02-01 22:32:38,770 [main] INFO Base.BaseClass - credential is pass
+2022-02-01 22:32:52,976 [main] INFO Base.BaseClass - Select or drop down box is handle
+2022-02-01 22:33:07,770 [main] INFO Base.BaseClass - Browser is Closed
+2022-02-01 22:39:37,783 [main] INFO Base.BaseClass - Properties are set
+2022-02-01 22:41:52,576 [main] INFO Base.BaseClass - Browser is open
+2022-02-01 22:44:18,952 [main] INFO Base.BaseClass - url inserted and connecting
+2022-02-01 22:44:19,399 [main] INFO Base.BaseClass - Connection timeout
+2022-02-01 22:44:24,001 [main] INFO Base.BaseClass - Current url , title and logo is checked
+2022-02-01 22:44:24,963 [main] INFO Base.BaseClass - Create account btn is click
+2022-02-01 22:44:28,582 [main] INFO Base.BaseClass - signIn text is present
+2022-02-01 22:45:27,428 [main] INFO Base.BaseClass - credential is pass
+2022-02-03 09:27:28,215 [main] INFO Base.BaseClass - Properties are set
+2022-02-03 09:28:13,299 [main] INFO Base.BaseClass - Browser is open
+2022-02-03 09:28:28,591 [main] INFO Base.BaseClass - url inserted and connecting
+2022-02-03 09:28:28,603 [main] INFO Base.BaseClass - Connection timeout
+2022-02-03 09:28:29,107 [main] INFO Base.BaseClass - Current url , title and logo is checked
+2022-02-03 09:28:29,456 [main] INFO Base.BaseClass - Create account btn is click
+2022-02-03 09:28:30,525 [main] INFO Base.BaseClass - signIn text is present
+2022-02-03 09:29:04,293 [main] INFO Base.BaseClass - credential is pass
+2022-02-03 09:29:12,993 [main] INFO Base.BaseClass - Select or drop down box is handle
+2022-02-03 09:29:15,090 [main] INFO Base.BaseClass - Browser is Closed
+2022-02-03 10:07:13,096 [main] INFO Base.BaseClass - Properties are set
+2022-02-03 10:07:49,592 [main] INFO Base.BaseClass - Browser is open
+2022-02-03 10:08:04,463 [main] INFO Base.BaseClass - url inserted and connecting
+2022-02-03 10:08:04,572 [main] INFO Base.BaseClass - Connection timeout
+2022-02-03 10:08:05,471 [main] INFO Base.BaseClass - Current url , title and logo is checked
+2022-02-03 10:08:05,966 [main] INFO Base.BaseClass - Create account btn is click
+2022-02-03 10:08:08,772 [main] INFO Base.BaseClass - signIn text is present
+2022-02-03 10:08:25,947 [main] INFO Base.BaseClass - credential is pass
+2022-02-03 10:08:33,199 [main] INFO Base.BaseClass - Select or drop down box is handle
+2022-02-03 10:08:39,814 [main] INFO Base.BaseClass - Browser is Closed
